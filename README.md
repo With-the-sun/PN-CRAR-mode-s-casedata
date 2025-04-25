@@ -1,6 +1,6 @@
 # PN-CRAR-mode-s-casedata
 All rights to the data are owned by the author and associates. If you wish to use it, please contact the author at clsnnqns@163.com.
-The data of this case consists of 35 indicators for 2,000 cigarettes, with each row representing one cigarette and each column representing one indicator
+The data of this case consists of 35 indicators for 2,000 cigarettes, with each row representing one cigarette and each column representing one indicator. This is a piece of data about the matalb format.
 | No. | Field Name                                   | Measurement Type | Unit and Range                   | Sensor Type       | Accuracy     | Collection Interval | Calibration Frequency |  
 |----:|----------------------------------------------|------------------|----------------------------------|-------------------|--------------|---------------------|-----------------------|  
 | 1  | Suction rod conveyor vacuum pressure         | Pressure          | mbar (-120 to -60)              | Pressure sensor    | ±0.12 mbar   | 6 ms                | 1-2 months             |  
